@@ -1,3 +1,7 @@
+# FRIDAY NIGHT FUNKIN': Vs. Toreiner
+A mod based on the OCs/Personas of "IamSolarDreemurr" (https://x.com/ItsmeSolar1s). Which also features the original characters of other friends, such as "LukeGote" (https://x.com/LukeGote). You can play the mod here: (https://gamebanana.com/mods/369139).
+_____________________________________
+
 # Friday Night Funkin' - Psych Engine
 Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
 
